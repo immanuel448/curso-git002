@@ -1,2 +1,2 @@
-print("Hola a todos, en especial a emmanuel")
+print("Hola a todos, se ha borrado")
 
